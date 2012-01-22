@@ -13,6 +13,7 @@ class CsvFixtureHelper
 {
   /**
    * Créer les entités à partir d'un fichier CSV.
+   * 
    * @param string $model classe de l'entité
    * @param array $fields champs
    * @param string $file_path chemin du fichier
