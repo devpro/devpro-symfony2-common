@@ -2,7 +2,6 @@
 
 namespace Devpro\Tests\Entity;
 
-
 /**
  * Devpro\Tests\Entity\DummyEntity
  */
