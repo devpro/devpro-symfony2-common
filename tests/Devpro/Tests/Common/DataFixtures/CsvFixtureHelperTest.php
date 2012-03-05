@@ -2,6 +2,8 @@
 
 namespace Devpro\Tests\Common\DataFixtures;
 
+include_once __DIR__.'/../../Entity/DummyEntity.php';
+
 /**
  * Test CsvFixtureHelper.
  *
